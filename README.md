@@ -60,7 +60,7 @@
 
 <p align="center">
 <a href="[https://www.instagram.com/karen._.g16?igsh=MW54M3h6andoNmE4dw==]"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
-<a href="https://instagram.com/themlphdstudent"><img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
+<a href="https://www.instagram.com/karen._.g16?igsh=MW54M3h6andoNmE4dw=="><img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
 </p>
 
 ---
