@@ -1,24 +1,25 @@
 ### 👋 ¡Hola! Soy [Karen Daniela Garcia Sevilla](https://github.com/karen064)
 
 🎓 Estudiante de Ingeniería en Telecomunicaciones en la **Universidad Santo Tomás**  
-📚 Actualmente en el **3er semestre**  
+📚 Actualmente en el **6er semestre**  
 🌐 Apasionada por la **Telemática**, las redes de comunicación y la tecnología  
 💻 Me interesa el desarrollo de software, programación y análisis de datos  
 🚀 En constante aprendizaje y con muchas ganas de aportar a proyectos de código abierto
 
-**Mis áreas de investigación**:
-- Minería de aspectos atípicos
-- Clasificación
-- Agrupamiento
-- Detección de anomalías
-- Medidas de similitud
+**Mis áreas de interés académico y profesional**:
+- Redes y Telemática
+- Seguridad informática
+- Sistemas distribuidos
+- Programación y análisis de datos
+- Música y tecnología aplicada a la música
 
-**Estoy abierto a**:
+**Estoy abierta a**:
 
-- colaborar en trabajos,
-- proyectos de machine learning (desarrollo o investigación),
-- pasantías de investigación y
-- ser revisor o miembro del comité para revistas o conferencias sobre Machine Learning / Minería de Datos.
+- colaborar en trabajos y proyectos relacionados con telecomunicaciones y tecnologías afines,
+- participar en proyectos de investigación o desarrollo,
+- pasantías académicas o profesionales,
+- y contribuir en revisiones o comités para eventos y publicaciones técnicas.
+
 
 ---
 
