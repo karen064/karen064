@@ -1,3 +1,5 @@
+<div style="background-color:#f0f8ff; padding: 20px; border-radius: 12px">
+
 ### 👋 ¡Hola! Soy [Karen Daniela García Sevilla](https://github.com/karen064)
 
 🎓 Estudiante de **Ingeniería en Telecomunicaciones** en la [Universidad Santo Tomás](https://www.usta.edu.co/)  
@@ -78,3 +80,5 @@
 
 ✨ *Gracias por visitar mi perfil. Estoy emocionada por seguir aprendiendo y aportar al mundo de la tecnología.*  
 💡 *Si quieres colaborar o simplemente charlar sobre tecnología, ¡no dudes en escribirme!*
+
+</div>
