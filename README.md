@@ -39,7 +39,7 @@
 
   <h1>👨‍💻 Guía para Crear un Perfil Profesional en GitHub</h1>
 
-  <p>A partir de ahora, todos los estudiantes deben crear un <strong>perfil de GitHub personalizado</strong> como parte de su formación profesional. Aquí tienes una guía sencilla para lograrlo.</p>
+  <p>A partir de ahora, todos los estudiantes deben crear un perfil de GitHub personalizado como parte de su formación profesional. Aquí tienes una guía sencilla para lograrlo.</p>
 
   <h2>✅ Pasos</h2>
   <ul>
