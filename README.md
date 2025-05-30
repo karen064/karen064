@@ -1,6 +1,10 @@
 ### 👋 ¡Hola! Soy [Karen Daniela Garcia Sevilla](https://github.com/karen064)
 
-Completé mi doctorado (PhD) en Aprendizaje Automático en la [Federation University](https://federation.edu.au), Australia. Además, soy un desarrollador de ML ocasional que disfruta escribir artículos (sobre Machine Learning, Ciencia de Datos, Productividad y Consejos para doctorados) y contribuir a proyectos de código abierto.
+🎓 Estudiante de Ingeniería en Telecomunicaciones en la **Universidad Santo Tomás**  
+📚 Actualmente en el **3er semestre**  
+🌐 Apasionada por la **Telemática**, las redes de comunicación y la tecnología  
+💻 Me interesa el desarrollo de software, programación y análisis de datos  
+🚀 En constante aprendizaje y con muchas ganas de aportar a proyectos de código abierto
 
 **Mis áreas de investigación**:
 - Minería de aspectos atípicos
