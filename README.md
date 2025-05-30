@@ -2,7 +2,6 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Guía para Perfil Profesional en GitHub</title>
   <style>
     body {
@@ -44,14 +43,13 @@
 
   <h2>✅ Pasos</h2>
   <ul>
-    <li><strong>Crea una cuenta</strong> en <a href="https://github.com" target="_blank">https://github.com</a></li>
-    <li><strong>Elige un nombre de usuario profesional.</strong> Evita apodos o nombres informales.</li>
-    <li><strong>Crea un nuevo repositorio</strong> con el mismo nombre que tu usuario.</li>
-    <li><strong>Agrega un archivo <code>README.md</code></strong> al repositorio.</li>
+    <li>Crea una cuenta en <a href="https://github.com" target="_blank">https://github.com</a></li>
+    <li>Elige un nombre de usuario profesional. Evita apodos o nombres informales.</li>
+    <li>Crea un nuevo repositorio con el mismo nombre que tu usuario.</li>
+    <li>Agrega un archivo <code>README.md</code> al repositorio.</li>
   </ul>
 
   <h2>📄 Ejemplo de README.md</h2>
-
   <pre><code># 👋 Hola, soy Juan Pérez
 
 🎓 Estudiante de Ingeniería en Sistemas  
