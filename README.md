@@ -1,4 +1,5 @@
-### 👋 ¡Hola! Soy [Durgesh Samariya](https://durgeshsamariya.github.io)
+### 👋 ¡Hola! Soy [Karen Daniela Garcia Sevilla
+](https://durgeshsamariya.github.io)
 
 Completé mi doctorado (PhD) en Aprendizaje Automático en la [Federation University](https://federation.edu.au), Australia. Además, soy un desarrollador de ML ocasional que disfruta escribir artículos (sobre Machine Learning, Ciencia de Datos, Productividad y Consejos para doctorados) y contribuir a proyectos de código abierto.
 
