@@ -59,8 +59,6 @@
 ## 🤝 Conecta conmigo:
 
 <p align="center">
-<a href="https://www.kaggle.com/themlphdstudent"><img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" /></a>
-<a href="https://durgeshsamariya.github.io"><img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
 <a href="https://twitter.com/themlphdstudent"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
 <a href="https://instagram.com/themlphdstudent"><img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
 </p>
