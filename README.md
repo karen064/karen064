@@ -6,7 +6,7 @@
 📚 Actualmente en el **6.º semestre**  
 🌐 Apasionada por la **Telemática**, las redes de comunicación y la tecnología  
 💻 Me interesa el **desarrollo de software**, la **programación** y los diferentes **sistemas de codificación**  
-🎵 También me encanta la música y explorar cómo se cruza con la tecnología  
+🎵 También me encanta la música y explorar cómo se cruza con la tecnología.
 
 ---
 
