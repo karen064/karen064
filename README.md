@@ -5,17 +5,16 @@
 🎓 Estudiante de **Ingeniería en Telecomunicaciones** en la [Universidad Santo Tomás](https://www.usta.edu.co/)  
 📚 Actualmente en el **6.º semestre**  
 🌐 Apasionada por la **Telemática**, las redes de comunicación y la tecnología  
-💻 Me interesa el **desarrollo de software**, la **programación** y el **análisis de datos**  
+💻 Me interesa el **desarrollo de software**, la **programación** y los diferentes **sistemas de codificación**  
 🎵 También me encanta la música y explorar cómo se cruza con la tecnología  
-🚀 Siempre en busca de nuevos retos y oportunidades para aprender y crecer profesionalmente  
 
 ---
 
 ## 🔍 Áreas de interés académico y profesional
 
-- Redes y Telemática  
+- Telemática  
 - Seguridad informática  
-- Sistemas distribuidos  
+- Sistemas de Codificación 
 - Programación y análisis de datos  
 - Tecnología aplicada a la música  
 
@@ -23,10 +22,10 @@
 
 ## 🤝 Estoy abierta a:
 
-- Colaborar en proyectos relacionados con telecomunicaciones, redes o desarrollo  
-- Participar en investigaciones académicas o científicas  
+- Aplicar análisis de datos y aprendizaje automático para optimizar redes y mejorar la calidad del servicio. 
+- Participar en proyectos de ciberseguridad enfocados en proteger infraestructuras de telecomunicaciones. 
 - Realizar pasantías profesionales o académicas  
-- Contribuir en revisiones técnicas o comités de eventos  
+- Contribuir en iniciativas de sostenibilidad y eficiencia energética en sistemas de comunicación.
 
 ---
 
